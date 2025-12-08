@@ -5,7 +5,7 @@ All models are trained on tasks from NeuroGym, using recurrent neural networks w
 
 The repository includes three Jupyter notebooks:
 
-CDM_TASK.ipynb: Baseline leaky RNN and L2-regularised RNN trained on ContextDecisionMaking-v0. 
+CDM_TASK.ipynb: Baseline leaky RNN and L2-regularised leaky RNN trained on ContextDecisionMaking-v0. 
 
 DMS_TASK.ipynb: The same models trained on DelayMatchSample-v0 to test generalisation to a working-memory task.
 
