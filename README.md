@@ -1,4 +1,4 @@
-Cognitive RNN Analysis: Coursework Codebase
+Cognitive leaky RNN Analysis: Coursework Codebase
 
 This repository contains the code used for the coursework report Integrating Brain-Inspired Constraints in Neural Network Models .
 All models are trained on tasks from NeuroGym, using recurrent neural networks with biologically inspired constraints.
